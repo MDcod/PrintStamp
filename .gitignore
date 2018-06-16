@@ -1,0 +1,5 @@
+[Bb]in
+*.vs
+[Dd]ebug*/
+obj/
+[Rr]elease*/
