@@ -1,0 +1,21 @@
+c:\users\lazarev\source\repos\PrintStamp\PrintStamp\bin\Debug\PrintStamp.exe.config
+c:\users\lazarev\source\repos\PrintStamp\PrintStamp\bin\Debug\PrintStamp.exe
+c:\users\lazarev\source\repos\PrintStamp\PrintStamp\bin\Debug\PrintStamp.pdb
+c:\users\lazarev\source\repos\PrintStamp\PrintStamp\obj\Debug\PrintStamp.csprojResolveAssemblyReference.cache
+c:\users\lazarev\source\repos\PrintStamp\PrintStamp\obj\Debug\PrintStamp.csproj.CoreCompileInputs.cache
+c:\users\lazarev\source\repos\PrintStamp\PrintStamp\obj\Debug\PrintStamp.exe
+c:\users\lazarev\source\repos\PrintStamp\PrintStamp\obj\Debug\PrintStamp.pdb
+C:\Users\sov\Desktop\Штампик\PrintStamp\PrintStamp\bin\Debug\PrintStamp.exe.config
+C:\Users\sov\Desktop\Штампик\PrintStamp\PrintStamp\bin\Debug\PrintStamp.exe
+C:\Users\sov\Desktop\Штампик\PrintStamp\PrintStamp\bin\Debug\PrintStamp.pdb
+C:\Users\sov\Desktop\Штампик\PrintStamp\PrintStamp\obj\Debug\PrintStamp.csprojResolveAssemblyReference.cache
+C:\Users\sov\Desktop\Штампик\PrintStamp\PrintStamp\obj\Debug\PrintStamp.csproj.CoreCompileInputs.cache
+C:\Users\sov\Desktop\Штампик\PrintStamp\PrintStamp\obj\Debug\PrintStamp.exe
+C:\Users\sov\Desktop\Штампик\PrintStamp\PrintStamp\obj\Debug\PrintStamp.pdb
+D:\Visual Studio\repos\PrintStamp\PrintStamp\bin\Debug\PrintStamp.exe.config
+D:\Visual Studio\repos\PrintStamp\PrintStamp\bin\Debug\PrintStamp.exe
+D:\Visual Studio\repos\PrintStamp\PrintStamp\bin\Debug\PrintStamp.pdb
+D:\Visual Studio\repos\PrintStamp\PrintStamp\obj\Debug\PrintStamp.csprojAssemblyReference.cache
+D:\Visual Studio\repos\PrintStamp\PrintStamp\obj\Debug\PrintStamp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\PrintStamp\PrintStamp\obj\Debug\PrintStamp.exe
+D:\Visual Studio\repos\PrintStamp\PrintStamp\obj\Debug\PrintStamp.pdb

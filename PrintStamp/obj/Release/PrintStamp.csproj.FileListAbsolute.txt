@@ -1,0 +1,7 @@
+D:\Visual Studio\repos\PrintStamp\PrintStamp\bin\Release\PrintStamp.exe.config
+D:\Visual Studio\repos\PrintStamp\PrintStamp\bin\Release\PrintStamp.exe
+D:\Visual Studio\repos\PrintStamp\PrintStamp\bin\Release\PrintStamp.pdb
+D:\Visual Studio\repos\PrintStamp\PrintStamp\obj\Release\PrintStamp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\PrintStamp\PrintStamp\obj\Release\PrintStamp.exe
+D:\Visual Studio\repos\PrintStamp\PrintStamp\obj\Release\PrintStamp.pdb
+D:\Visual Studio\repos\PrintStamp\PrintStamp\obj\Release\PrintStamp.csprojAssemblyReference.cache
